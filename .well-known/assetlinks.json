@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.mismeet.android",
+      "sha256_cert_fingerprints": [
+        "37:1D:50:E8:E0:20:D4:1F:D3:B5:80:C8:4A:1E:7B:51:D9:D6:5C:A4:72:61:04:9D:8F:ED:61:46:21:05:CF:19",
+        "9A:92:F1:DF:4A:11:67:4C:81:DB:8C:C4:AF:48:72:52:39:79:F2:92:D9:BC:04:BE:79:F2:1C:CF:CE:E3:D4:AF"
+      ]
+    }
+  }
+]

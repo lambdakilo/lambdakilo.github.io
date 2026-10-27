@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["VXSNWDR5MY.app.mismeet.ios"],
+        "components": [
+          { "/": "/mismeet/i", "comment": "Mismeet invite links, the invite in the fragment" }
+        ]
+      }
+    ]
+  }
+}
